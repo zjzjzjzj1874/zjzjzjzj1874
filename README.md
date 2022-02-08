@@ -2,11 +2,11 @@
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
-:telescope: I'm a software engineer who is paranoid about convention, consistency, and constraints.
-:ferris_wheel: I’m currently working on Chengdu and living here.
-:love_letter: The best way to reach me is to send me an email.
-:wedding: Fun fact: I'm a coward.
-:four_leaf_clover: I love palying badminton && programming.
+:telescope: I'm a software engineer who is paranoid about convention && consistency && constraints.\n
+:ferris_wheel: I’m currently working on Chengdu && living here.\n
+:love_letter: The best way to reach me is to send me an email.\n
+:wedding: Fun fact: I'm a coward.\n
+:four_leaf_clover: I love palying badminton && programming.\n
 
 <!--
 **zjzjzjzj1874/zjzjzjzj1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
