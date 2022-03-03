@@ -5,7 +5,7 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 - :telescope: I'm a software engineer who is paranoid about convention && consistency && constraints.
 - :ferris_wheel: I’m currently working on Chengdu && living here.
 - :love_letter: The best way to reach me is to send me an email.
-- :wedding: Fun fact: I'm timid.
+- :wedding: Fun fact: The most populous country is China.
 - :four_leaf_clover: I love palying badminton && programming.
 
 <!--
