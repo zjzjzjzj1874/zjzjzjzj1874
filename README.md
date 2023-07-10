@@ -42,7 +42,7 @@
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zjzjzjzj1874&show_icons=true&theme=xcode" /></div>
 
 
-![github contribution grid snake animation](https://cdn.isdelivr.net/gh/zjzjzjzj1874/zjzjzjzj1874/assets/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](./assets/github-contribution-grid-snake.svg)
 
 ## Achievement
 
