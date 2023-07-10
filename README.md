@@ -17,6 +17,9 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 [//]: # (Github连续打卡)
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzjzjzj1874&show_icons=true&theme=tokyonight" /></div>
 
+[//]: # (Github活动统计图)
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zjzjzjzj1874&show_icons=true&theme=xcode" /></div>
+
 <!--
 **zjzjzjzj1874/zjzjzjzj1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
