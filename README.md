@@ -11,6 +11,9 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 [//]: # (添加仓库统计数据)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" /></div>
 
+[//]: # (语言统计)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" /></div>
+
 <!--
 **zjzjzjzj1874/zjzjzjzj1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
