@@ -48,7 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到德莱联盟,各位看官走过路过,不要错过,有红心就给小弟扔过来,没红心就捧个场,感谢各位老板!&center=true&font=Roboto&size=27" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的世界!&center=true&font=Roboto&size=27" /></div>
 
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
