@@ -26,7 +26,6 @@ jobs:
       - name: Push to Github
         uses: EndBug/add-and-commit@v9
         with:
-          pull: '--rebase --autostash ...'
           message: 'Chore：Generate Contribution Snake'
           author_name: zjzjzjzj1874
           author_email: zjzjzjzj1874@gmail.com
