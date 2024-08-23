@@ -33,8 +33,8 @@
 [//]: # (</div>)
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://stats.justsong.cn/api/leetcode?username=zjzjzjzj1874&cn=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=zjzjzjzj1874&cn=true" />
 </div>
 
 [//]: # (添加仓库统计数据)
