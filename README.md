@@ -28,18 +28,24 @@
 [//]: # (<div align="center"><img src="https://profile-counter.glitch.me/zjzjzjzj1874/count.svg"/></div>)
 
 [//]: # (语言统计)
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" />
-</div>
+[//]: # (<div align="left">)
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" />)
+[//]: # (</div>)
 
-[//]: # (添加仓库统计数据)
-<div align="left">
+<div style="display: flex; justify-content: center;">
+    <img src="https://stats.justsong.cn/api/leetcode?username=zjzjzjzj1874&cn=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" />
+</div>
+[//]: # (添加仓库统计数据)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zjzjzjzj1874&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzjzjzj1874&show_icons=true&theme=tokyonight" />
 </div>
 
 [//]: # (Github活动统计图)
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zjzjzjzj1874&show_icons=true&theme=xcode" /></div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjzjzjzj1874&show_icons=true&theme=xcode" />
+</div>
 
 
 ![github contribution grid snake animation](./assets/github-contribution-grid-snake.svg)
