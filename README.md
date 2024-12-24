@@ -1,3 +1,11 @@
+<!--
+ * @Author: zjzjzjzj1874 zjzjzjzj1874@gmail.com
+ * @Date: 2023-12-20 16:50:29
+ * @LastEditors: zjzjzjzj1874 zjzjzjzj1874@gmail.com
+ * @LastEditTime: 2024-12-24 17:01:08
+ * @FilePath: /zjzjzjzj1874/README.md
+ * @Description: reamdme酷酷的
+-->
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi boys 👋
 
@@ -58,6 +66,8 @@
 
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的世界!&center=true&font=Roboto&size=27" /></div>
+
+<div align="center"><img src="./assets/zjzjzjzj1874-github-2024.png" /></div>
 
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
