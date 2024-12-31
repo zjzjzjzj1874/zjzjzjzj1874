@@ -2,7 +2,7 @@
  * @Author: zjzjzjzj1874 zjzjzjzj1874@gmail.com
  * @Date: 2023-12-20 16:50:29
  * @LastEditors: zjzjzjzj1874 zjzjzjzj1874@gmail.com
- * @LastEditTime: 2024-12-24 17:01:08
+ * @LastEditTime: 2024-12-31 10:45:32
  * @FilePath: /zjzjzjzj1874/README.md
  * @Description: reamdme酷酷的
 -->
@@ -12,6 +12,10 @@
 [![Github](https://img.shields.io/github/followers/zjzjzjzj1874?label=Follow&style=social)](https://github.com/zjzjzjzj1874)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zjzjzjzj1874.zjzjzjzj1874" alt="visitor badge"/>
 
+<!-- <div >
+  <img src="https://github.cards/zjzjzjzj1874?template=Default" alt="动态内容">
+</div> -->
+<!-- [预览](https://github.cards/zjzjzjzj1874?template=Default) -->
 
 <div >
   <img src="https://img.shields.io/badge/-Go-f6da1c?style=flat&logo=Go&logoColor=white">
